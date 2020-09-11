@@ -28,7 +28,7 @@ spoilerButton:
   "Spoiler here!"
 
 spoilerName:
-  " about: _${name}_"
+  ": _${name}_"
 
 spoilerCounterName:
   " about: ${name}"
@@ -58,7 +58,7 @@ lightSpoilerDescription:
   "Click me to send as a light spoiler. User won't be asked to confirm to see it."
 
 lightSpoilerMessageText:
-  "Click me to see the spoiler${title}."
+  "CW/TW ${title}."
 
 heavySpoilerTitle:
   "Heavy spoiler"
